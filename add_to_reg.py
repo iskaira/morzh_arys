@@ -44,4 +44,6 @@ if __name__ == "__main__":
     bat_content = f"reg import {path}\{cs_reg_name}.reg"
     AddToRegistry(cs_reg_name, bat_content)
 
-    
+    cs_reg_name = "cs1.6_cfg"
+    bat_content = f"{path}\{cs_reg_name}.bat"
+    AddToRegistry(cs_reg_name, bat_content)
