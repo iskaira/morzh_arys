@@ -1,0 +1,1 @@
+copy "D:\Programmer\arys\other\config.cfg" "D:\Games\Counter-Strike 1.6 LAN NEW\cstrike_russian\config.cfg"
